@@ -21,3 +21,8 @@ Además, al estar limitado a solo dos clases (gato o perro), cualquier otro anim
 8.	Técnicas de preprocesamiento y data augmentation Aplicar transformaciones como rotación, escalado o recorte durante el entrenamiento incrementa la robustez del modelo, ayudándole a generalizar mejor ante variaciones reales en las imágenes.
 9.	Parámetros de entrenamiento (batch size, learning rate, épocas) Un learning rate inadecuado puede hacer que el modelo no aprenda (si es muy bajo) o que no converja correctamente (si es muy alto). El número de épocas también influye: pocas pueden causar underfitting, mientras que muchas podrían inducir overfitting si no se controlan.
 10.	Regularización y validación cruzada Usar técnicas como dropout, early stopping, y validación cruzada asegura que el modelo no se sobreajuste al conjunto de entrenamiento y tenga un rendimiento consistente en datos no vistos.
+## Resultados 
+100% :-) 
+![image](https://github.com/user-attachments/assets/8a798dd8-305f-4abd-90b6-941f96fee411)
+
+    
